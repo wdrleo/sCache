@@ -1,0 +1,13 @@
+{
+    "name": "saltun/scache",
+    "description": "PHP Cache Class",
+    "type": "liblary",
+    "authors": [
+        {
+            "name": "Savas Can ALTUN",
+            "email": "savascanaltun@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
